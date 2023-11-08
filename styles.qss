@@ -1,0 +1,11 @@
+/* styles.qss */
+
+QPushButton {
+    background-color: white;
+    height: 250%;
+
+}
+
+QPushButton:hover {
+    background-color: lightblue;
+}
